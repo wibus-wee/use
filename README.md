@@ -32,6 +32,11 @@ Things in my coding workspace.
 
 ## Software
 
+## Explorer
+
+- Arc -- Alpha Version.
+- Chrome -- Development
+
 ### Video Editing
 
 - Final Cut Pro - Video Editing
