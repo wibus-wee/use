@@ -29,10 +29,16 @@ Things in my coding workspace.
   - rollup
   - unbuild
 - [`broz`](https://github.com/antfu/broz) - Frameless browser for project screenshots
+- Starship
+
+## Fonts
+
+- Operator Mono
+- Fira Code
 
 ## Software
 
-## Explorer
+### Explorer
 
 - Arc -- Alpha Version.
 - Chrome -- Development
@@ -40,7 +46,6 @@ Things in my coding workspace.
 ### Video Editing
 
 - Final Cut Pro - Video Editing
-
 - Motion - Special effects creater
 
 ### Audio Editing
