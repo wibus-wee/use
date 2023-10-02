@@ -14,8 +14,8 @@ Things in my coding workspace.
 
 ## Editor
 
-- IDE: [VS Code](https://code.visualstudio.com/)
-- Font: Operator Mono SSm Lig Nerd Font
+- IDE: [VS Code](https://code.visualstudio.com/) & Xcode
+- Font: Operator Mono & Nerd Font
 - Theme: [Vitesse Theme](https://github.com/antfu/vscode-theme-vitesse)
 - Icons: [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 - SSH: Terminus
@@ -35,13 +35,15 @@ Things in my coding workspace.
 
 - Operator Mono
 - Fira Code
+- Nerd Font
 
 ## Software
 
 ### Explorer
 
-- Arc -- Alpha Version.
-- Chrome -- Development
+- Arc
+- Chrome
+- Safari
 
 ### Video Editing
 
@@ -53,6 +55,11 @@ Things in my coding workspace.
 - Logic Pro -- Audio Recorder and Editor
 - Ozone Pro
 
+### Images Editing
+
+- Photoshop
+- PhotosProcesser (My own software)
+
 ### Entertainment
 
 - Spotify
@@ -62,18 +69,18 @@ Things in my coding workspace.
 
 - Typora
 - Notion
-- MWeb Pro
+- Craft
 
 ### Design
 
 - Sketch
+- Photoshop
 
 ### Other
 
 - Sketchbar -- A highly customizable macOS status bar replacement
   - Config: [sketchybar-dotfile](https://github.com/wibus-wee/sketchybar-dotfile)
-- ClashX Pro -- Proxy Tool, with Enhancement Mode.
-- AIDente -- Battery Protecter
-- iShot -- Create a screenshot in easy way.
-- Raycast
-- Hazel
+- Surge -- Proxy Tool.
+- ~~AIDente Pro -- Battery Protecter~~ My computer battery was locked!
+- Cleanshot X -- Create a screenshot in easy way.
+- Raycast -- Another Spotlight
