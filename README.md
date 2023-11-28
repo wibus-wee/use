@@ -5,7 +5,8 @@ Things in my coding workspace.
 ## Hardware
 
 - **Computer:** iMac 2016 i7 & MacBook Air M1 _`(sponsored)`_
-- **Phone**: Honor 50 Pro **_`Highly not recommended`_**
+- **Phone**: iPhone 15 Pro Max
+- **Earphones**: Sony WF-1000XM5
 - **Microphone**: AKG C214
 - **Keyboard & Mouse:** Magic Keyboard & Mouse
 - **Sound Card**: Focusrite 2i4
