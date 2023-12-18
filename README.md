@@ -5,7 +5,7 @@ Things in my coding workspace.
 ## Hardware
 
 - **Computer:** iMac 2016 i7 & MacBook Air M1 _`(sponsored)`_
-- **Phone**: iPhone 15 Pro Max
+- **Phone**: Honor 50 Pro _`(Not recommended.)`_ + iPhone 15 Pro Max
 - **Earphones**: Sony WF-1000XM5
 - **Microphone**: AKG C214
 - **Keyboard & Mouse:** Magic Keyboard & Mouse
@@ -40,7 +40,7 @@ Things in my coding workspace.
 
 ## Software
 
-### Explorer <small>(Sort by frequency of use)</small>
+### Explorer <sup>(Sort by frequency of use)</sup>
 
 - Chrome
 - Arc
@@ -62,7 +62,7 @@ Things in my coding workspace.
 - [Adobe Photoshop](https://www.adobe.com/products/photoshop.html)
 - [PhotosProcesser](https://github.com/wibus-wee/PhotosProcesser) (Created by me.)
 
-### Entertainment
+### Music
 
 - [Spotify](https://open.spotify.com/)
 - QQ Music (With Ads listening mode)
@@ -73,6 +73,7 @@ Things in my coding workspace.
 - [Craft](https://www.craft.do/) -- Excellent interaction.
 - Typora -- Lightweight.
 - Notion -- Cross-platform support.
+- [CotEditor](https://coteditor.com/) -- Plain-Text Editor for macOS
 
 ### Design
 
@@ -80,14 +81,22 @@ Things in my coding workspace.
 - [Adobe Photoshop](https://www.adobe.com/products/photoshop.html) -- Other processing of images
 - [Microsoft Designer](https://design.microsoft.com/) -- Source of inspiration
 
+### Crack
+
+- IDA 8
+- Hopper Disassembler
+
 ### Other
 
-- [Sketchybar](https://github.com/FelixKratz/SketchyBar) -- A highly customizable macOS status bar replacement
-  - Config: [sketchybar-dotfile](https://github.com/wibus-wee/sketchybar-dotfile)
 - [Surge](https://nssurge.com/) -- Proxy Tool.
+- ~~[Sketchybar](https://github.com/FelixKratz/SketchyBar) -- A highly customizable macOS status bar replacement~~
+  - Config: [sketchybar-dotfile](https://github.com/wibus-wee/sketchybar-dotfile)
 - ~~AIDente Pro -- Battery Protecter~~ **AIDente Pro seems that the maximum charging capacity of my computer will be locked and cannot be changed!**
 - [CleanShot X](https://cleanshot.com/) -- Create a screenshot in easy way.
-- [Raycast](https://www.raycast.com/)https://www.raycast.com/ -- Another Spotlight
+- [Raycast](https://www.raycast.com/) -- Another Spotlight
 - Telegram -- The best IM software!
 - Infuse Pro
 - LANDrop -- Intranet transmission tool.
+- NeatDownloadManager
+- Spacedrive
+- App Cleaner & Uninstaller
