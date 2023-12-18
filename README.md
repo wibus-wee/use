@@ -51,6 +51,7 @@ Things in my coding workspace.
 - Final Cut Pro - Video Editing
 - Motion - Special effects creater
 - Screen Studio -- Recording software with excellent dynamic effects
+- Compressor -- Export videos of different specifications.
 
 ### Audio Editing
 
@@ -83,20 +84,20 @@ Things in my coding workspace.
 
 ### Crack
 
-- IDA 8
-- Hopper Disassembler
+- IDA 8.3
+- [Hopper Disassembler](https://www.hopperapp.com/)
 
 ### Other
 
 - [Surge](https://nssurge.com/) -- Proxy Tool.
+- [CleanShot X](https://cleanshot.com/) -- Create a screenshot in easy way.
+- [Raycast](https://www.raycast.com/) -- Another Spotlight
+- [Telegram for macOS](https://macos.telegram.org/) -- The best IM software!
+- Infuse Pro -- Comfortable viewing and use experience.
+- LANDrop -- Intranet transmission tool.
+- NeatDownloadManager -- Multi-threaded download tool. (BUT there are some bugs)
+- [Spacedrive](https//github.com/spacedriveapp/spacedrive) -- Open source cross-platform file explorer.
+- App Cleaner & Uninstaller -- The best application cleaner and uninstaller.
 - ~~[Sketchybar](https://github.com/FelixKratz/SketchyBar) -- A highly customizable macOS status bar replacement~~
   - Config: [sketchybar-dotfile](https://github.com/wibus-wee/sketchybar-dotfile)
 - ~~AIDente Pro -- Battery Protecter~~ **AIDente Pro seems that the maximum charging capacity of my computer will be locked and cannot be changed!**
-- [CleanShot X](https://cleanshot.com/) -- Create a screenshot in easy way.
-- [Raycast](https://www.raycast.com/) -- Another Spotlight
-- Telegram -- The best IM software!
-- Infuse Pro
-- LANDrop -- Intranet transmission tool.
-- NeatDownloadManager
-- Spacedrive
-- App Cleaner & Uninstaller
