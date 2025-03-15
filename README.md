@@ -18,7 +18,7 @@ Things in my coding workspace.
   - Focusrite 2i4 2Gen
   - Focusrite 2i2 3Gen
 - **MIDI Keyboard**: MidPlus X8 III _`(Not recommended.)`_
-- (no external monitor)
+- AOC 27-inch 4K
 
 ## Editor
 
