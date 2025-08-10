@@ -7,7 +7,7 @@ Things in my coding workspace.
 - **Computer:**
   - iMac 2016 i7 (24GB+2TB)
   - MacBook Air M1 (16GB+512GB) _`(sponsored)`_
-  - MacBook Air M2 (16GB+256GB)
+  - MacBook Air M2 (16GB+256GB) -> (1TB)
 - **Phone**:
   - Honor 50 Pro _`(Not recommended.)`_
   - iPhone 15 Pro Max 👍
@@ -69,12 +69,13 @@ Things in my coding workspace.
 ### Images Editing
 
 - [Adobe Photoshop](https://www.adobe.com/products/photoshop.html)
+- [Photomator](https://www.pixelmator.com/photomator/)
 - [PhotosProcesser](https://github.com/wibus-wee/PhotosProcesser) (Created by me.)
 
 ### Music
 
 - [Spotify](https://open.spotify.com/)
-- QQ Music (With Ads listening mode)
+- QQ Music
 - Netease Cloud Music
 
 ### Writing
@@ -110,3 +111,18 @@ Things in my coding workspace.
   - Config: [sketchybar-dotfile](https://github.com/wibus-wee/sketchybar-dotfile)
 - Battery CLI: https://github.com/actuallymentor/battery 👍
 - ~~AIDente Pro -- Battery Protecter~~ **AIDente Pro seems that the maximum charging capacity of my computer will be locked and cannot be changed!**
+
+## AI
+
+- [ChatGPT](https://chat.openai.com/)
+- [Augment Code](https://www.augmentcode.com/) -- Augment Context Engine really enhances the code workflow.
+
+### MCP
+
+- Context7 - `npx -y @upstash/context7-mcp@latest`
+- sequential-thinking - `npx -y @modelcontextprotocal/server-sequential-thinking@latest`
+- mcp-feedback-enhanced - `uvx mcp-feedback-enhanced@latest`
+- XcodeBuildMCP - `npx -y xcodebuildmcp@latest`
+- Playwright - `npx -y @playwright/mcp@latest`
+- apple-docs - `npx -y @kimsungwhee/apple-docs-mcp@latest`
+- [IDA Pro MCP](https://github.com/mrexodia/ida-pro-mcp)
